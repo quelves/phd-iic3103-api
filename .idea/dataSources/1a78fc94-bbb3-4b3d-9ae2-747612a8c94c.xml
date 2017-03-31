@@ -9,7 +9,7 @@
     </database>
     <schema id="3" parent="2" name="public">
       <ObjectId>2200</ObjectId>
-      <IntrospectionTimestamp>2017-03-31.01:31:00.635</IntrospectionTimestamp>
+      <IntrospectionTimestamp>2017-03-31.01:50:26.883</IntrospectionTimestamp>
       <Current>1</Current>
       <Visible>1</Visible>
     </schema>
@@ -27,7 +27,7 @@
     </schema>
     <schema id="8" parent="2" name="information_schema">
       <ObjectId>12113</ObjectId>
-      <IntrospectionTimestamp>2017-03-31.01:31:00.635</IntrospectionTimestamp>
+      <IntrospectionTimestamp>2017-03-31.01:50:26.883</IntrospectionTimestamp>
       <IntrospectionStateNumber>492</IntrospectionStateNumber>
       <Visible>1</Visible>
     </schema>
